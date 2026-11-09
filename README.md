@@ -1,4 +1,4 @@
-# P.K. - Castle Storage Anywhere
+﻿# P.K. - Castle Storage Anywhere
 
 A **BepInEx 6 (IL2CPP)** mod for **Suikoden I & II HD Remaster** (Steam) that enables remote, instant access to Rock's Toran Castle Vault from anywhere across towns, dungeons, and the world map.
 
@@ -71,3 +71,9 @@ RequireRock = false
 - **[faospark](https://github.com/faospark)**: Primary Author & Lead Researcher.
 - **Moogles & Mods Discord Community**: For ongoing support, research, collaboration, and keeping the Suikoden modding scene thriving. Join us on the [Moogles & Mods Discord](https://discord.com/invite/bSnpVBV).
 - **Framework**: [BepInEx](https://github.com/BepInEx/BepInEx) & [HarmonyX](https://github.com/BepInEx/HarmonyX).
+
+---
+
+## License
+
+Distributed under the [MIT License](LICENSE).
